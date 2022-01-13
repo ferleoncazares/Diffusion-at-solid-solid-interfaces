@@ -9,7 +9,7 @@ This repository is published under a GNU GPL v3 license ([![License: GPL v3](htt
 
 ## Contents and how to use
 
-The **Examples.m** file showcases the usage of all the functions in this repository. The user can open the example of their preference and change the inputs parameters. If the simulation diverges, a smaller convergence criterion ~D\*dt/dx^2<0.5 (printed by the functions) should be selected. Relevant plots of the concentrations and fluxes are also added for each diffusion case.
+The **Examples.m** file showcases the usage of all the functions in this repository. The user can open the example of their preference and change the input parameters. If the simulation diverges, a smaller convergence criterion ~D\*dt/dx^2<0.5 (printed by the functions) should be selected. Relevant plots of the concentrations and fluxes are also added for each diffusion case.
 
 ### Functions - Diffusion simulations 
 
