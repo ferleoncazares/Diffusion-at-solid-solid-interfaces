@@ -5,6 +5,7 @@ Finite volume methods implemented in Matlab to model 1D solute diffusion at soli
 Coded in Matlab R2021a. There is no need for additional packages.
 
 ## License
+This repository is published under a GNU GPL v3 license ([![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)). See `LICENSE.txt` for full licensing information.
 
 ## Contents and how to use
 
