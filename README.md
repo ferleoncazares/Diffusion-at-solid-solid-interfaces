@@ -26,5 +26,5 @@ Additionally, the monolayer interfacial trap case is implemented for other two s
 
 ### Functions - Plotting energy landscapes 
 
-- **energy_landscape_plot.m** - Plotting an energy landscape of monolayer or no traps.
+- **energy_landscape_plot.m** - Plotting an energy landscape of a monolayer or no trap.
 - **energy_landscape_plot_diff.m** - Plotting the energy landscape of a diffuse trap.
